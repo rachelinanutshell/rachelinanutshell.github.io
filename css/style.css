@@ -1,9 +1,6 @@
 body{
 	background-color: rgb(255,255,255);
-	text-align: center
-}
-
-h1{
+	text-align: center;
 	font-family: Helvetica, sans-serif;
 }
 
@@ -11,8 +8,10 @@ h1{
 	font-style: italic;
 }
 
-p{
-	font-family: Helvetica, sans-serif;
+.list{
+	text-align:left;
 }
 
-
+section{
+	background-color: #C2FFEB;
+}
