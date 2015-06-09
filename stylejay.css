@@ -44,6 +44,7 @@ a{
 	font-family: sans-serif;
 	text-transform: uppercase;
 	float: right;
+	padding:20px;
 }
 
 input{
@@ -59,4 +60,5 @@ section{
 aside{
 	float: right;
 	margin:25%;
+	border-left-color: #000;
 }
