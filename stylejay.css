@@ -4,6 +4,11 @@
 h1{
 	text-align: center;
 	font-family: 'Lato', sans-serif;
+	color: white;
+}
+
+h2{
+	font-family: 'Lato', sans-serif;
 }
 
 .subtitle{
@@ -35,11 +40,23 @@ a{
 }
 
 #search{
-	color: #FCBC50;
+	background-color: #FCBC50;
 	font-family: sans-serif;
 	text-transform: uppercase;
+	float: right;
 }
 
-form{
+input{
+	display: block;
 	float: left;
+}
+
+section{
+	float: left;
+	margin:75%;
+}
+
+aside{
+	float: right;
+	margin:25%;
 }
