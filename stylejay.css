@@ -47,6 +47,7 @@ a{
 }
 
 #form{
+	display: block;
 	float:left;
 	background-color: #2297EF;
 }
