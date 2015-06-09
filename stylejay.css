@@ -1,8 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
 @import url(http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic);
 
 h1{
 	text-align: center;
-	color: #FFF;
+	font-family: 'Lato', sans-serif;
 }
 
 .subtitle{
@@ -17,6 +18,7 @@ nav{
 }
 
 a{
+	color: white;
 	text-decoration: none;
 	display: block;
 	float: left;
@@ -30,4 +32,14 @@ a{
 	clear:both;
 	height:0;
 	font-size: 0;
+}
+
+#search{
+	color: #FCBC50;
+	font-family: sans-serif;
+	text-transform: uppercase;
+}
+
+form{
+	float: left;
 }
