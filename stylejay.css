@@ -44,16 +44,17 @@ a{
 	text-transform: uppercase;
 	float: right;
 	width: 100%;
-	padding-left: 20px;
 }
 
 #checkbox{
 	background-color: #2297EF;
+	clear: both;
 }
 
 section{
 	float: left;
 	margin:75%;
+	clear:both;
 }
 
 aside{
