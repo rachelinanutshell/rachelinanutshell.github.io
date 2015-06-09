@@ -46,9 +46,7 @@ a{
 	width: 100%;
 }
 
-#form{
-	display: block;
-	float:left;
+#checkbox{
 	background-color: #2297EF;
 }
 
