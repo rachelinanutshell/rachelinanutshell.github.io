@@ -42,8 +42,7 @@ a{
 	background-color: #FCBC50;
 	font-family: sans-serif;
 	text-transform: uppercase;
-	float: right;
-	width: 100%;
+	display: block;
 }
 
 #checkbox{
