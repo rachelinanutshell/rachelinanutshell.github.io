@@ -20,6 +20,7 @@ h2{
 
 h3{
 	font-family: sans-serif;
+	text-align: center;
 }
 
 nav{
@@ -70,6 +71,7 @@ aside{
 	float: right;
 	width: 30%;
 	background-color: #5CC2EB;
+	text-align: center;
 }
 
 img{
@@ -93,3 +95,6 @@ td{
 	height:0;
 	font-size: 0;
 }
+
+
+
