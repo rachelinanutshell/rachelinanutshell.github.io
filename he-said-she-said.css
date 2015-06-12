@@ -25,6 +25,7 @@ body{
 #left-side, #right-side{
 	width: 50%;
 	height: 100%;
+	text-transform: uppercase;
 }
 
 .blog-container{
