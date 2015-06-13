@@ -80,4 +80,13 @@ h2{
 	font-size: 2em;
 }
 
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content:" ";
+	clear:both;
+	height:0;
+	font-size: 0;
+}
+
 
