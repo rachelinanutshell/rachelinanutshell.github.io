@@ -48,8 +48,8 @@ body{
 .date{
 	display: block;
 	color: #FFF;
-	padding: 2em;
-	left:15%;
+	padding: 1em;
+	text-transform: uppercase;
 }
 
 .racheldate{
