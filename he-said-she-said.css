@@ -30,7 +30,6 @@ body{
 }
 
 .date-container{
-	position: absolute;
 	width: 70%;
 	left: 13%;
 	background-color: rgba(140,0,0,.7);
