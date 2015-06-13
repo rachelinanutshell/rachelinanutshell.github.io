@@ -35,11 +35,18 @@ nav{
 
 .nav{
 	display: block;
-	padding: 3em;
-	margin-top: 10em;
+	padding: 4em;
+	margin: 10em auto auto auto;
 	text-decoration: none;
-	color: #000;
 	float: left;
+}
+
+.navleft{
+	color: #000;
+}
+
+.navright{
+	color: #FFF;
 }
 
 .blog-container{
