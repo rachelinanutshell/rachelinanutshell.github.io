@@ -31,12 +31,13 @@ body{
 
 nav{
 	position: absolute;
+	margin: 6em auto auto auto;
 }
 
 .nav{
-	display: inline-block;
+	display: block;
 	padding: 4.6em;
-	margin: 6em auto auto auto;
+	text-align: center;
 	text-decoration: none;
 	float: left;
 }
