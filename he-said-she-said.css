@@ -59,14 +59,6 @@ body{
 	text-align: center;
 }
 
-.date{
-	display: block;
-}
-
-.post{
-	float:left;
-}
-
 h1{
 	font-family: "museo-sans", sans-serif;
 	font-size: 4.5em;
