@@ -47,7 +47,7 @@ body{
 }
 
 .date{
-	position: absolute;
+	position: relative;
 	display: block;
 	color: #FFF;
 	padding: 2em;
