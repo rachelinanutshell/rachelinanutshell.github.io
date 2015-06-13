@@ -40,8 +40,8 @@ body{
 
 .blog-container{
 	position: absolute;
-  	width: 90%;
-  	margin: auto;
+  	width: 60%;
+  	margin-top: 5em;
   	background-color: rgba(152,152,152,.5);
 	padding: 2em;
 }
