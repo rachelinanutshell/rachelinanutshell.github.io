@@ -46,7 +46,7 @@ body{
 }
 
 .post{
-	position: absolute;
+	position: relative;
 	width: 70%;
 	left: 15%;
 	background-color: rgba(0,140,0,.7);
