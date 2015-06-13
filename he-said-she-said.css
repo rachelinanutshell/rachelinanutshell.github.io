@@ -35,7 +35,7 @@ body{
 	left: 13%;
 	background-color: rgba(140,0,0,.7);
 	margin-top: 12em;
-	padding: 1em;
+	padding: 1em .5em;
 }
 
 .blog-container{
