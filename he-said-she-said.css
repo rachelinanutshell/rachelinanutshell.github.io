@@ -32,17 +32,16 @@ body{
 .date-container{
 	position: absolute;
 	width: 70%;
-	left: 14.5%;
+	left: 15%;
 	background-color: rgba(140,0,0,.7);
 	margin-top: 12em;
 	padding: 1em;
 }
 
 .blog-container{
-	position: absolute;
-  	width: 60%;
-  	margin-top: 7em;
-  	left: 16%;
+	position: relative;
+  	width: 90%;
+  	margin: auto;
   	background-color: rgba(152,152,152,.5);
 	padding: 2em;
 }
