@@ -29,14 +29,14 @@ body{
 	text-transform: uppercase;
 }
 
-/*.date-container{
+.date-container{
 	position: absolute;
 	width: 70%;
 	left: 19.5%;
 	background-color: rgba(140,0,0,.7);
 	margin-top: 12em;
 	padding: 2em;
-}*/
+}
 
 .blog-container{
 	position: absolute;
