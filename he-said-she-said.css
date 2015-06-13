@@ -61,6 +61,10 @@ body{
 	background-color: #9ED4B3;
 }
 
+.blog-post{
+	clear:both;
+}
+
 .author-rachel{
 	background-color: #000;
 	color: #FFF;
