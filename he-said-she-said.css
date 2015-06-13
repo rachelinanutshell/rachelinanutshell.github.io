@@ -59,8 +59,16 @@ body{
 	text-align: center;
 }
 
+.date{
+	display: block;
+}
+
 .blog-post{
 	width: 40%;
+}
+
+.post{
+	float:left;
 }
 
 h1{
@@ -72,6 +80,4 @@ h2{
 	font-size: 2em;
 }
 
-.post{
-	float:left;
-}
+
