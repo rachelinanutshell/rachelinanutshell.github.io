@@ -41,13 +41,11 @@ body{
 .blog-container{
 	position: relative;
   	width: 90%;
-  	margin: auto;
   	background-color: rgba(152,152,152,.5);
 	padding: 2em;
 }
 
 .date{
-	position: relative;
 	display: block;
 	color: #FFF;
 	padding: 2em;
