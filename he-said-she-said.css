@@ -45,6 +45,15 @@ body{
 	padding: 2em;
 }
 
+.post{
+	position: absolute;
+	width: 70%;
+	left: 15%;
+	background-color: rgba(0,140,0,.7);
+	margin-top: 12em;
+	padding: 1em;
+}
+
 .date{
 	display: block;
 	color: #FFF;
@@ -60,10 +69,6 @@ body{
 .seandate{
 	float: right;
 	background-color: #9ED4B3;
-}
-
-article{
-	display: block;
 }
 
 .author-rachel{
