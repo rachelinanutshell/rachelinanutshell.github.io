@@ -29,9 +29,14 @@ body{
 	text-transform: uppercase;
 }
 
+nav{
+	position: absolute;
+
+}
+
 .blog-container{
 	position: absolute;
-	margin-top: 7em;
+	margin-top: 8em;
   	width: 70%;
   	background-color: rgba(152,152,152,.5);
 	left: 16%;
