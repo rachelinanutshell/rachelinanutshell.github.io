@@ -33,7 +33,7 @@ nav{
 	position: absolute;
 }
 
-a{
+.nav{
 	display: block;
 	padding: 3em;
 	margin-top: 10em;
