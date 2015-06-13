@@ -49,7 +49,6 @@ body{
 	position: relative;
 	margin-left: -3em;
 	background-color: rgba(0,100,0,.7);
-	padding: 1em;
 }
 
 .date{
@@ -57,7 +56,7 @@ body{
 	color: #FFF;
 	padding: 1em;
 	text-transform: uppercase;
-	margin: 0;
+	margin: -1em;
 }
 
 .racheldate{
