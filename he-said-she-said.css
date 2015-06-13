@@ -46,6 +46,21 @@ body{
 	padding: 2em;
 }
 
+.date{
+	display: block;
+	color: #FFF;
+}
+
+.racheldate{
+	float: left;
+	background-color: #9C81BB;
+}
+
+.seandate{
+	float: right;
+	background-color: #9ED4B3;
+}
+
 .author-rachel{
 	background-color: #000;
 	color: #FFF;
