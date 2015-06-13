@@ -34,7 +34,7 @@ nav{
 }
 
 .nav{
-	display: block;
+	display: inline-block;
 	padding: 4.6em;
 	margin: 6em auto auto auto;
 	text-decoration: none;
