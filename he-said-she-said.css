@@ -59,6 +59,10 @@ body{
 	text-align: center;
 }
 
+.blog-post{
+	width: 40%;
+}
+
 h1{
 	font-family: "museo-sans", sans-serif;
 	font-size: 4.5em;
