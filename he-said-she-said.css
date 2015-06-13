@@ -47,8 +47,11 @@ body{
 }
 
 .date{
+	position: absolute;
 	display: block;
 	color: #FFF;
+	padding: 2em;
+	left:15%;
 }
 
 .racheldate{
@@ -59,10 +62,6 @@ body{
 .seandate{
 	float: right;
 	background-color: #9ED4B3;
-}
-
-.blog-post{
-	clear:both;
 }
 
 .author-rachel{
