@@ -31,15 +31,16 @@ body{
 
 nav{
 	position: absolute;
-	margin: 6em auto auto auto;
+	margin-top: 10em;
 }
 
 .nav{
-	display: block;
-	padding: 4.6em;
+	position: relative;
+	width: 25%;
+	float: left;
+	display: inline-block;
 	text-align: center;
 	text-decoration: none;
-	float: left;
 }
 
 .navleft{
