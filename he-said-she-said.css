@@ -100,7 +100,7 @@ nav{
 	color: #FFF;
 	text-align: center;
 	float: left;
-	margin-right: auto;
+	margin-right: 8em;
 }
 
 .author-sean{
@@ -108,7 +108,7 @@ nav{
 	color: #000;
 	text-align: center;
 	float:right;
-	margin-left: auto;
+	margin-left: 8em;
 }
 
 h1{
