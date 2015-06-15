@@ -29,11 +29,6 @@ body{
 	text-transform: uppercase;
 }
 
-#all-content{
-	height: 100%;
-	overflow: scroll;
-}
-
 nav{
 	position: absolute;
 	width: 100%;
