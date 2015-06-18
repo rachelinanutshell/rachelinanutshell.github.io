@@ -41,7 +41,7 @@ nav{
 	float: left;
 	display: inline-block;
 	text-align: center;
-	font-size: 1.5em;
+	text-transform: uppercase;
 }
 
 .navleft{
@@ -70,7 +70,6 @@ nav{
 .date{
 	display: inline-block;
 	margin-top: 2em;
-	color: #FFF;
 	font-size: .8em;
 	padding: 1em;
 	width: 10%;
@@ -87,12 +86,14 @@ nav{
 	float: left;
 	background-color: #9C81BB;
 	margin-left: -2em;
+	color: #FFF;
 }
 
 .seandate{
 	float: right;
 	background-color: #9ED4B3;
 	margin-right: -2em;
+	color: #000;
 }
 
 .author-rachel{
