@@ -42,7 +42,8 @@ nav{
 	display: inline-block;
 	text-align: center;
 	text-transform: uppercase;
-	padding-top: 1em;
+	padding-top: 2em;
+	font-size: 1.3em;
 }
 
 .navleft{
