@@ -30,6 +30,7 @@ body{
 }
 
 .title{
+	width: 50%;
 	text-transform: uppercase;
 }
 
