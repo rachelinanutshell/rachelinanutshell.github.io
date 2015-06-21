@@ -32,15 +32,16 @@ body{
 .title{
 	width: 50%;
 	text-transform: uppercase;
-	z-index: 1;
 	position: absolute;
 	margin-top: 1em;
 }
 
 .all-content{
+	z-index: 1;
 	height: 100%;
 	width: 100%;
 	overflow: auto;
+	margin: 0;
 }
 
 nav{
