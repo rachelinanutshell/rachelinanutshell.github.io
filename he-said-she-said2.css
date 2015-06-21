@@ -31,7 +31,13 @@ body{
 	margin-top: 0;
 }
 
+.title{
+	z-index: 1;
+	margin-top: 1em;
+}
+
 .all-content{
+	z-index: 1;
 	height: 100%;
 	overflow: scroll;
 }
