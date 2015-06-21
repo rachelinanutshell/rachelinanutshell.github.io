@@ -40,7 +40,7 @@ body{
 .all-content{
 	height: 100%;
 	width: 100%;
-	overflow-y: scroll;
+	overflow: auto;
 }
 
 nav{
@@ -74,7 +74,6 @@ nav{
   	width: 70%;
   	background-color: rgba(152,152,152,.5);
 	left: 16%;
-	height: 100%
 }
 
 .post{
