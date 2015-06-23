@@ -5,12 +5,12 @@ html{
 body{
 	font-size: 25px;
 	margin: 0px;
-	height:100%;
+	height: inherit;
 	font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
 .wrapper{
-	height: 100%;
+	height: inherit;
 	width: 100%;
 	margin: 0;
 	overflow: scroll;
@@ -29,6 +29,7 @@ body{
 }
 
 .background-left, .background-right{
+	height: inherit;
 	margin-top: 0;
 }
 
