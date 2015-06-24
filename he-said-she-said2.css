@@ -28,6 +28,7 @@ body{
 	float: right;
 	width: 50%;
 	height: 100%;
+	left: 50%;
 }
 
 .background-left, .background-right{
