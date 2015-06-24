@@ -5,30 +5,58 @@ html{
 body{
 	font-size: 25px;
 	margin: 0px;
-	height:100%;
+	height: 100%;
 	font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
-#left-side{
-	background-color:#FFF;
-	color:#000;
-	text-align: center;
-	float: left;
+.wrapper{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	overflow: hidden;
 }
 
-#right-side{
-	background-color:#000;
-	color:#FFF;
-	text-align: center;
+.background-left{
+	background-color: #FFF;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+
+.background-right{
+	background-color: #000;
 	float: right;
+	width: 50%;
+	height: 100%;
 	left: 50%;
 }
 
-#left-side, #right-side{
-	width: 50%;
-	height: 100%;
-	text-transform: uppercase;
+.background-left, .background-right{
+	height: inherit;
+	margin-top: 0;
 	position: fixed;
+}
+
+.title-left{
+	width: 50%;
+	background-color: #FFF;
+	color: #000;
+	float: left;
+}
+
+.title-right{
+	width: 50%;
+	background-color: #000;
+	color: #FFF;
+	float: right;
+}
+
+.title{
+	position: absolute;
+	margin-top: 0;
+	width:100%;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 nav{
@@ -62,7 +90,7 @@ nav{
   	width: 70%;
   	background-color: rgba(152,152,152,.5);
 	left: 16%;
-	padding-bottom: 5%
+	padding-bottom: 5%;
 }
 
 .post{
