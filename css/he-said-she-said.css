@@ -21,12 +21,14 @@ body{
 	color:#FFF;
 	text-align: center;
 	float: right;
+	left: 50%;
 }
 
 #left-side, #right-side{
 	width: 50%;
 	height: 100%;
 	text-transform: uppercase;
+	position: fixed;
 }
 
 nav{
