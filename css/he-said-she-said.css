@@ -170,6 +170,7 @@ h2{
 }
 
 footer{
+	clear: both;
 	padding: 5em;
 }
 
