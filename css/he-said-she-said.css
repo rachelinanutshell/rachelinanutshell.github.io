@@ -172,6 +172,8 @@ h2{
 footer{
 	clear: both;
 	padding: 5em;
+	z-index: 3;
+	color:red;
 }
 
 
