@@ -178,4 +178,8 @@ h2{
 	body{
 		font-size: 10px;
 	}
+
+	.blog-container{
+		width: 90%;
+	}
 }
