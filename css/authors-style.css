@@ -102,6 +102,8 @@ nav{
 .rachel-desc{
 	display: inline-block;
 	float: left;
+	background-color: #000;
+	color: #FFF;
 }
 
 .sean-desc{
