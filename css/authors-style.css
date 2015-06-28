@@ -96,10 +96,11 @@ nav{
 
 .main-content{
 	float: right;
-	width: 80%;
+	width: 85%;
 }
 
 #author-title{
+	display: block;
 	text-align: left;
 }
 
