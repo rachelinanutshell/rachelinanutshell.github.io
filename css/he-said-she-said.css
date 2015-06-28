@@ -194,4 +194,11 @@ h2{
 	width: 100%;
 	}
 
+	.blog-post{
+	width: 100%;
+}
+
+.date{
+	visibility: hidden;
+}
 }
