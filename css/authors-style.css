@@ -103,6 +103,14 @@ nav{
 	text-align: left;
 }
 
+.rachel-desc{
+	display: inline-block;
+}
+
+.sean-desc{
+	display: inline-block;
+}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
