@@ -1,0 +1,88 @@
+html{
+	height:100%;
+}
+
+body{
+	font-size: 25px;
+	margin: 0px;
+	height: 100%;
+	font-family: 'museo-sans', Helvetica, sans-serif;
+}
+
+.wrapper{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.background-left{
+	background-color: #FFF;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+
+.background-right{
+	background-color: #000;
+	float: right;
+	width: 50%;
+	height: 100%;
+	left: 50%;
+}
+
+.background-left, .background-right{
+	height: inherit;
+	margin-top: 0;
+	position: fixed;
+}
+
+.title-left{
+	width: 50%;
+	background-color: #FFF;
+	color: #000;
+	float: left;
+}
+
+.title-right{
+	width: 50%;
+	background-color: #000;
+	color: #FFF;
+	float: right;
+}
+
+.title{
+	position: absolute;
+	margin-top: 0;
+	width:100%;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+nav{
+	position: absolute;
+	width: 100%;
+	margin-top: 10em;
+}
+
+.nav{
+	position: relative;
+	width: 25%;
+	float: left;
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 1em;
+	font-size: 1.3em;
+}
+
+.navleft{
+	color: #000;
+}
+
+.navright{
+	color: #FFF;
+}
+
+img{
+	border-radius: 50%;
+}
