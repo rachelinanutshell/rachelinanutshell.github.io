@@ -13,6 +13,7 @@ body{
 	height: 100%;
 	width: 100%;
 	margin: 0;
+	z-index: 1;
 }
 
 .background-left{
@@ -34,6 +35,13 @@ body{
 	height: inherit;
 	margin-top: 0;
 	position: fixed;
+	z-index: 0;
+}
+
+h1{
+	font-family: "museo-sans", Helvetica, sans-serif;
+	font-size: 4.5em;
+	text-align: center;
 }
 
 .title-left{
@@ -81,4 +89,31 @@ nav{
 
 .navright{
 	color: #FFF;
+}
+
+.decor{
+	color: #000;
+	float: left;
+	width: 10%;
+	height: 20px;
+}
+
+#one{
+	position: absolute;
+	margin-top: 15em;
+}
+
+.main-content{
+	position: absolute;
+	margin-top: 15px;
+	float: right;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content:" ";
+	clear:both;
+	height:0;
+	font-size: 0;
 }
