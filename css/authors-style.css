@@ -101,10 +101,12 @@ nav{
 
 .rachel-desc{
 	display: inline-block;
+	float: left;
 }
 
 .sean-desc{
 	display: inline-block;
+	float: left;
 }
 
 img{
