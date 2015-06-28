@@ -82,3 +82,18 @@ nav{
 .navright{
 	color: #FFF;
 }
+
+h1{
+	font-family: "museo-sans", Helvetica, sans-serif;
+	font-size: 4.5em;
+	text-align: center;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content:" ";
+	clear:both;
+	height:0;
+	font-size: 0;
+}
