@@ -107,6 +107,10 @@ nav{
 	display: inline-block;
 }
 
+img{
+	height: 5em;
+}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
