@@ -101,6 +101,7 @@ nav{
 
 .main-content{
 	float: right;
+	width: 80%;
 }
 
 .clearfix:after{
