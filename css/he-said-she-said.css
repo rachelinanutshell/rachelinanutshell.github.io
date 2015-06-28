@@ -182,6 +182,7 @@ h2{
 	.blog-container{
 	position: absolute;
 	margin-top: 15em;
+	left: 0;
   	width: 100%;
   	background-color: rgba(152,152,152,.5);
 	padding-bottom: 5%;
