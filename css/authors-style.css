@@ -15,6 +15,27 @@ body{
 	margin: 0;
 }
 
+.background-left{
+	background-color: #FFF;
+	float: left;
+	width: 50%;
+	height: 20%;
+}
+
+.background-right{
+	background-color: #000;
+	float: right;
+	width: 50%;
+	height: 20%;
+	left: 50%;
+}
+
+.background-left, .background-right{
+	height: inherit;
+	margin-top: 0;
+	position: fixed;
+}
+
 h1{
 	font-family: "museo-sans", Helvetica, sans-serif;
 	font-size: 4.5em;
