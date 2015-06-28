@@ -31,7 +31,6 @@ body{
 }
 
 .background-left, .background-right{
-	height: inherit;
 	margin-top: 0;
 	position: fixed;
 }
@@ -103,8 +102,6 @@ nav{
 }
 
 .main-content{
-	position: absolute;
-	margin-top: 15px;
 	float: right;
 }
 
