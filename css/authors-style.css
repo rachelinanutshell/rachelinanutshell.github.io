@@ -87,6 +87,11 @@ nav{
 	background-color: #000;
 }
 
+#author-title{
+	font-size: 2em;
+	padding: .5em;
+}
+
 .decor{
 	color: #000;
 	float: left;
@@ -124,8 +129,8 @@ nav{
 }
 
 .profile-sean{
-	height: 5.5em;
-	border-radius: 40%;
+	height: 6.5em;
+	border-radius: 50%
 }
 
 .clearfix:after{
