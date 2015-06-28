@@ -30,7 +30,6 @@ body{
 
 .background-left, .background-right{
 	margin-top: 0;
-	position: fixed;
 	height: 5em;
 }
 
