@@ -19,21 +19,19 @@ body{
 	background-color: #FFF;
 	float: left;
 	width: 50%;
-	height: 16em;
 }
 
 .background-right{
 	background-color: #000;
 	float: right;
 	width: 50%;
-	height: 16em;
 	left: 50%;
 }
 
 .background-left, .background-right{
-	height: inherit;
 	margin-top: 0;
 	position: fixed;
+	height: 16em;
 }
 
 h1{
