@@ -178,12 +178,4 @@ h2{
 	body{
 		font-size: 10px;
 	}
-
-	.blog-container{
-		visibility: hidden;
-	}
-
-	.blog-post{
-		width: 80%;
-	}
 }
