@@ -102,6 +102,11 @@ nav{
 .about-rachel{
 	background-color: #000;
 	color: #FFF;
+	float: right;
+}
+
+.about-sean{
+	float: left;
 }
 
 .rachel-desc{
