@@ -168,7 +168,7 @@ h2{
 	font-size: 0;
 }
 
-@media screen only and (max-width: 400px) {
+@media screen only and (max-width: 800px) {
 	body{
 		font-size: 1px;
 	}
