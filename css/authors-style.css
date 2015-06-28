@@ -102,7 +102,6 @@ nav{
 .about-rachel{
 	background-color: #000;
 	color: #FFF;
-	float: right;
 }
 
 .about-sean{
@@ -119,9 +118,14 @@ nav{
 	float: left;
 }
 
-img{
+.profile-rachel{
 	height: 5em;
 	border-radius: 50%;
+}
+
+.profile-sean{
+	height: 5.5em;
+	border-radius: 40%;
 }
 
 .clearfix:after{
