@@ -185,7 +185,6 @@ h2{
 	left: 0;
   	width: 100%;
   	background-color: rgba(152,152,152,.5);
-	padding-bottom: 5%;
 	}
 
 	.post{
@@ -196,9 +195,9 @@ h2{
 
 	.blog-post{
 	width: 100%;
-}
+	}
 
-.date{
+	.date{
 	visibility: hidden;
-}
+	}
 }
