@@ -19,14 +19,14 @@ body{
 	background-color: #FFF;
 	float: left;
 	width: 50%;
-	height: 100%;
+	height: 16em;
 }
 
 .background-right{
 	background-color: #000;
 	float: right;
 	width: 50%;
-	height: 100%;
+	height: 16em;
 	left: 50%;
 }
 
