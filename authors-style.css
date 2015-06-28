@@ -36,6 +36,12 @@ body{
 	position: fixed;
 }
 
+h1{
+	font-family: "museo-sans", Helvetica, sans-serif;
+	font-size: 4.5em;
+	text-align: center;
+}
+
 .title-left{
 	width: 50%;
 	background-color: #FFF;
@@ -83,10 +89,11 @@ nav{
 	color: #FFF;
 }
 
-h1{
-	font-family: "museo-sans", Helvetica, sans-serif;
-	font-size: 4.5em;
-	text-align: center;
+.decor{
+	color: #000;
+	float: left;
+	width: 10%;
+	height: 20px;
 }
 
 .text{
