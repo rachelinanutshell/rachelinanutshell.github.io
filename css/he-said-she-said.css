@@ -45,7 +45,6 @@ body{
 
 .title-right{
 	width: 50%;
-	background-color: #000;
 	color: #FFF;
 	float: right;
 }
@@ -195,6 +194,7 @@ h2{
 
 	.blog-post{
 	width: 100%;
+	margin-top: 0;
 	}
 
 	.date{
