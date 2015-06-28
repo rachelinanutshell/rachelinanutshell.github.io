@@ -104,6 +104,10 @@ nav{
 	width: 80%;
 }
 
+#author-title{
+	float: none;
+}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
