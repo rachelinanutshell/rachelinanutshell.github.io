@@ -110,7 +110,8 @@ nav{
 }
 
 img{
-	height: 3em;
+	height: 5em;
+	border-radius: 50%;
 }
 
 .clearfix:after{
