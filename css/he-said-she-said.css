@@ -168,13 +168,6 @@ h2{
 	font-size: 0;
 }
 
-footer{
-	clear: both;
- 	z-index: 10;
- 	height: 3em;
- 	margin-top: -3em;
-}
-
 @media screen only and (max-width: 400px) {
 	body{
 		font-size: 10px;
