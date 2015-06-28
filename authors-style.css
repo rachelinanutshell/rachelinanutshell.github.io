@@ -89,6 +89,10 @@ h1{
 	text-align: center;
 }
 
+.text{
+	z-index: 1;
+}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
