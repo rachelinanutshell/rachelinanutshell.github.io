@@ -13,29 +13,6 @@ body{
 	height: 100%;
 	width: 100%;
 	margin: 0;
-	z-index: 1;
-}
-
-.background-left{
-	background-color: #FFF;
-	float: left;
-	width: 50%;
-	height: 100%;
-}
-
-.background-right{
-	background-color: #000;
-	float: right;
-	width: 50%;
-	height: 100%;
-	left: 50%;
-}
-
-.background-left, .background-right{
-	height: inherit;
-	margin-top: 0;
-	position: fixed;
-	z-index: 0;
 }
 
 h1{
