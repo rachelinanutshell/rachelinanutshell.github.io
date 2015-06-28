@@ -96,8 +96,19 @@ nav{
 	height: 20px;
 }
 
+#one{
+	position: absolute;
+	margin-top: 15em;
+}
+
 .text{
 	z-index: 1;
+}
+
+.main-content{
+	position: absolute;
+	margin-top: 15px;
+	float: right;
 }
 
 .clearfix:after{
