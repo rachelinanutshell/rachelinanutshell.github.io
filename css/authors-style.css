@@ -109,12 +109,12 @@ nav{
 }
 
 .rachel-desc{
-	display: inline-block;
+	display: block;
 	float: left;
 }
 
 .sean-desc{
-	display: inline-block;
+	display: block;
 	float: left;
 }
 
