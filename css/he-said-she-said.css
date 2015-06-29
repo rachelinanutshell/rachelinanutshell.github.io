@@ -204,6 +204,7 @@ h2{
 	}
 
 	.nav{
+		display: block;
 		float: none;
 	}
 }
