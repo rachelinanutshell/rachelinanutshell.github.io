@@ -241,6 +241,9 @@ body{
 		color: #000;
 		font-size: 1em;
 		width: 100%;
+	}
+
+	.nav-box{
 		background-color: rgb(125,125,125);
 	}
 }
