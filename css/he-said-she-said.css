@@ -181,7 +181,7 @@ h2{
 
 	.blog-container{
 	position: absolute;
-	margin-top: 15em;
+	margin-top: 20em;
 	left: 0;
   	width: 100%;
   	visibility: hidden;
@@ -208,5 +208,10 @@ h2{
 		float: none;
 		display: block;
 		text-align: center;
+		background-color: rgba(152,152,152);
+	}
+
+	.navright{
+		color: #000;
 	}
 }
