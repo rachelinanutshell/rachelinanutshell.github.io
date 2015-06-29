@@ -215,7 +215,7 @@ h2{
 
 	.author-rachel, .author-sean{
 		float: none;
-		padding: .5em;
+		padding: .5em 0;
 	}
 
 	.date{
