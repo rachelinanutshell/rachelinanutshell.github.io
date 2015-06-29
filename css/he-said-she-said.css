@@ -245,5 +245,6 @@ body{
 
 	.nav-box{
 		background-color: rgb(125,125,125);
+		padding-bottom: .1em;
 	}
 }
