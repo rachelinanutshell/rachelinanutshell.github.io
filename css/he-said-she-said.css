@@ -189,30 +189,31 @@ h2{
 	}
 
 	.blog-container{
-	width: 100%;
-	left: 0;
-  	visibility: hidden;
+		margin-top: 10em;
+		width: 100%;
+		left: 0;
+  		visibility: hidden;
 	}
 
 	.post{
-	position: relative;
-	background-color: rgba(0,0,0,0);
-	width: 100%;
-	margin-top: 0;
-	visibility: visible;
+		position: relative;
+		background-color: rgba(0,0,0,0);
+		width: 100%;
+		margin-top: 0;
+		visibility: visible;
 	}
 
 	.blog-post{
-	width: 100%;
-	margin-top: 0;
+		width: 100%;
+		margin-top: 0;
 	}
 
 	.date{
-	visibility: hidden;
+		visibility: hidden;
 	}
 
 	nav{
-		margin-top: 7em;
+		margin-top: 6em;
 	}
 
 	.nav{
