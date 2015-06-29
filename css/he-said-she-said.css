@@ -188,6 +188,10 @@ h2{
 		font-size: 2.5em;
 	}
 
+	.background-right, .background-left{
+		width: 48%;
+	}
+
 	.blog-container{
 		width: 100%;
 		left: 0;
