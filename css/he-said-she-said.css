@@ -196,6 +196,7 @@ h2{
 	.blog-container{
 		width: 100%;
 		padding: 0;
+		left: 0;
 		visibility: hidden;
 	}
 
