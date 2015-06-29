@@ -185,7 +185,7 @@ h2{
 	}
 
 	.background-left, .background-right{
-		height: 20em;
+		height: 15em;
 		position: static;
 	}
 
@@ -197,6 +197,7 @@ h2{
 		width: 100%;
 		left: 0;
 		padding: 0;
+		visibility: hidden;
 	}
 
 	.post{
@@ -204,10 +205,7 @@ h2{
 		background-color: rgba(0,0,0,0);
 		margin-top: 0;
 		visibility: visible;
-	}
-
-	.blog-post{
-		margin-top: 0;
+		width: 100%;
 	}
 
 	.date{
