@@ -184,6 +184,11 @@ h2{
 		width: 100%;
 	}
 
+	.background-left, .background-right{
+		height: 20em;
+		position: static;
+	}
+
 	h1{
 		font-size: 2.5em;
 	}
@@ -203,7 +208,6 @@ h2{
 
 	.blog-post{
 		margin-top: 0;
-	}
 	}
 
 	.date{
