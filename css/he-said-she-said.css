@@ -184,6 +184,10 @@ h2{
 		width: 100%;
 	}
 
+	.background-right{
+		left: 48%;
+	}
+
 	h1{
 		font-size: 2.5em;
 	}
@@ -220,9 +224,6 @@ h2{
 		text-align: center;
 		width: 100%;
 		padding: .3em;
-	}
-
-	.navright, .navleft{
 		color: #000;
 		background-color: rgba(152,152,152);
 		font-size: 1em;
