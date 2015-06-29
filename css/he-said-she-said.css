@@ -180,8 +180,12 @@ h2{
 
 @media screen and (max-width: 600px) {
 	body{
-		font-size: 10px;
+		font-size: 12px;
 		width: 100%;
+	}
+
+	h1{
+		font-size: 3em;
 	}
 
 	.blog-container{
@@ -218,10 +222,6 @@ h2{
 
 	.navright, .navleft{
 		color: #000;
-		
-	}
-
-	nav{
 		background-color: rgba(152,152,152);
 	}
 }
