@@ -188,10 +188,6 @@ h2{
 		font-size: 2.5em;
 	}
 
-	.background-right, .background-left{
-		width: 48%;
-	}
-
 	.blog-container{
 		width: 100%;
 		left: 0;
@@ -224,6 +220,9 @@ h2{
 		text-align: center;
 		width: 100%;
 		padding: .3em;
+	}
+		
+	a{	
 		color: #000;
 		background-color: rgba(152,152,152);
 		font-size: 1em;
