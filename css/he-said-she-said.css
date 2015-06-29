@@ -191,19 +191,19 @@ h2{
 	.blog-container{
 	width: 100%;
 	left: 0;
-	right: 0;
   	visibility: hidden;
-  	padding: 0;
 	}
 
 	.post{
 	position: relative;
 	background-color: rgba(0,0,0,0);
+	width: 100%;
 	margin-top: 0;
 	visibility: visible;
 	}
 
 	.blog-post{
+	width: 100%;
 	margin-top: 0;
 	}
 
