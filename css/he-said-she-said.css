@@ -230,7 +230,7 @@ h2{
 		float: none;
 		display: block;
 		text-align: center;
-		padding: .5em;
+		padding: .5em 0;
 		color: #000;
 		background-color: rgba(152,152,152);
 		font-size: 1em;
