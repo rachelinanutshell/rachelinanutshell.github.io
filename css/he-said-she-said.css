@@ -189,6 +189,7 @@ h2{
 	}
 
 	.blog-container{
+	width: 100%;
   	visibility: hidden;
 	}
 
