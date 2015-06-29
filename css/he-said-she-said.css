@@ -176,10 +176,7 @@ h2{
 @media screen and (max-width: 600px) {
 	body{
 		font-size: 10px;
-	}
-
-	.wrapper{
-		overflow-x: hidden;
+		width: 100%;
 	}
 
 	.blog-container{
@@ -194,6 +191,7 @@ h2{
 	position: relative;
 	background-color: rgba(0,0,0,0);
 	width: 100%;
+	margin-top: 0;
 	}
 
 	.blog-post{
@@ -203,5 +201,9 @@ h2{
 
 	.date{
 	visibility: hidden;
+	}
+
+	.nav{
+		float: none;
 	}
 }
