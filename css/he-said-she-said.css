@@ -241,7 +241,7 @@ body{
 		color: #000;
 		font-size: 1em;
 		width: 100%;
-		padding: .5em auto;
+		padding: .5em auto .5em auto;
 	}
 
 	.nav-box{
