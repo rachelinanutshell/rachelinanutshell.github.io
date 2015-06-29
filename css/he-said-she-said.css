@@ -186,8 +186,7 @@ h2{
 
 	.blog-container{
 	position: absolute;
-	margin-top: 20em;
-	left: 0;
+	margin: 20em 0 0 0;
   	width: 100%;
   	visibility: hidden;
 	}
