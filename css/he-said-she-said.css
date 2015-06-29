@@ -203,4 +203,10 @@ h2{
 	.date{
 	visibility: hidden;
 	}
+
+	.nav{
+		float: none;
+		display: block;
+		text-align: center;
+	}
 }
