@@ -171,6 +171,11 @@ h2{
 	body{
 		font-size: 14px;
 	}
+
+	.blog-container{
+		width: 80%;
+		left: 6%;
+	}
 }
 
 @media screen and (max-width: 600px) {
