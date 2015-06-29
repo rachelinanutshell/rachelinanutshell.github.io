@@ -209,6 +209,10 @@ h2{
 	visibility: hidden;
 	}
 
+	nav{
+		margin-top: 7em;
+	}
+
 	.nav{
 		float: none;
 		display: block;
