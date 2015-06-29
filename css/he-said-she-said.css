@@ -210,6 +210,11 @@ h2{
 
 	.blog-post{
 		width: 100%;
+		display: block;
+	}
+
+	.author-rachel, .author-sean{
+		float: none;
 	}
 
 	.date{
