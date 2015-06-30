@@ -180,8 +180,9 @@ h2{
 
 @media screen and (max-width: 600px) {
 	body{
-		font-size: 12px;
+		font-size: 11px;
 		overflow-x: hidden;
+		margin: auto;
 	}
 
 	.background-left, .background-right{
@@ -206,7 +207,6 @@ h2{
 
 	.post{
 		margin-top: 0;
-
 		visibility: visible;
 	}
 
