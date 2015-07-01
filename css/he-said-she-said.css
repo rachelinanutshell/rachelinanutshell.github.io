@@ -3,7 +3,7 @@ html{
 }
 
 body{
-	font-size: 25px;
+	font-size: 20px;
 	margin: 0px;
 	height: 100%;
 	font-family: 'museo-sans', Helvetica, sans-serif;
@@ -200,7 +200,7 @@ h2{
 
 	.blog-container{
 		width: 100%;
-		left: 0;
+		margin-left: 0;
 		margin-top: 18em;
 		visibility: hidden;
 	}
