@@ -27,7 +27,7 @@ body{
 	float: right;
 	width: 50%;
 	height: 100%;
-	left: 50%;
+	right: 0;
 }
 
 .background-left, .background-right{
@@ -202,7 +202,7 @@ h2{
 		width: 100%;
 		left: 0;
 		margin-top: 18em;
-		visibility: hidden;
+		display: none;
 	}
 
 	.post{
@@ -221,7 +221,7 @@ h2{
 	}
 
 	.date{
-		visibility: hidden;
+		display: none;
 	}
 
 	nav{
