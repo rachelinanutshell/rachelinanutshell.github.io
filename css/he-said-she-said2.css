@@ -9,6 +9,25 @@ body{
 	font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
+.background-left{
+	background-color: #FFF;
+	float: left;
+	width: 50%;
+}
+
+.background-right{
+	background-color: #000;
+	float: right;
+	width: 50%;
+	right: 0;
+}
+
+.background-left, .background-right{
+	height: inherit;
+	margin-top: 0;
+	position: fixed;
+}
+
 .wrapper{
 	width: 100%;
 	margin: 0;
@@ -21,27 +40,6 @@ body{
 	height: 140px;
 }
 
-.background-left{
-	background-color: #FFF;
-	float: left;
-	width: 50%;
-	height: 100%;
-}
-
-.background-right{
-	background-color: #000;
-	float: right;
-	width: 50%;
-	height: 100%;
-	right: 0;
-}
-
-.background-left, .background-right{
-	height: inherit;
-	margin-top: 0;
-	position: fixed;
-}
-
 .title-left{
 	width: 50%;
 	background-color: #FFF;
@@ -51,6 +49,7 @@ body{
 
 .title-right{
 	width: 50%;
+	background-color: #000;
 	color: #FFF;
 	float: right;
 }
@@ -84,6 +83,7 @@ nav{
 
 .navright{
 	color: #FFF;
+	background-color: #000;
 }
 
 .blog-container{
