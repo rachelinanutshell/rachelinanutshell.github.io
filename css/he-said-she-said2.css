@@ -32,12 +32,13 @@ body{
 	width: 100%;
 	margin: 0;
 	min-height: 100%;
+	margin-bottom: -20px;
 }
 
 .wrapper:after{
 	content:"";
 	display: block;
-	height: 140px;
+	height: 20px;
 }
 
 .title-left{
@@ -171,7 +172,8 @@ h2{
 }
 
 footer{
-	height: 140px;
+	height: 20px;
+	z-index: 1;
 }
 
 
