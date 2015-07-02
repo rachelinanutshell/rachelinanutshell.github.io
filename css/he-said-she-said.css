@@ -202,7 +202,7 @@ h2{
 		width: 100%;
 		left: 0;
 		margin-top: 18em;
-		display: none;
+		padding-bottom: 0;
 	}
 
 	.post{
