@@ -210,17 +210,14 @@ footer{
 		font-size: 1.5em;
 	}
 
-.nav-box{
-		background-color: rgb(125,125,125);
-		padding-bottom: 1em;
-	}
-
 	.nav{
 		float: none;
 		color: #000;
 		font-size: 1em;
 		width: 100%;
 		position: static;
+		background-color: rgb(125,125,125);
+		padding-bottom: 1em;
 	}
 
 	.blog-container{
