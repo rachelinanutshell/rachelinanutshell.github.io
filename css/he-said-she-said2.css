@@ -92,14 +92,14 @@ nav{
   	width: 70%;
   	background-color: rgba(152,152,152,.5);
 	left: 16%;
-	padding: .5em 0;
+	padding-bottom: 3em;
 }
 
 .post{
 	position: relative;
 	background-color: rgba(0,0,0,0);
+	margin-top: 3em;
 	width: 100%;
-	margin-top: 10%;
 }
 
 .date{
@@ -191,8 +191,6 @@ footer{
 @media screen and (max-width: 600px) {
 	body{
 		font-size: 10px;
-		overflow-x: hidden;
-		margin: auto;
 	}
 
 	.background-left, .background-right{
@@ -204,14 +202,30 @@ footer{
 		font-size: 2.5em;
 	}
 
+	.title{
+		margin-top: 0;
+	}
+
 	h2{
 		font-size: 1.5em;
+	}
+
+		.nav{
+		float: none;
+		color: #000;
+		font-size: 1em;
+		width: 100%;
+		position: static;
+	}
+
+	.nav-box{
+		background-color: rgb(125,125,125);
+		padding-bottom: 1em;
 	}
 
 	.blog-container{
 		width: 100%;
 		left: 0;
-		margin-top: 18em;
 		padding-bottom: 0;
 	}
 
@@ -234,19 +248,4 @@ footer{
 		display: none;
 	}
 
-	nav{
-		margin-top: 5.5em;
-	}
-
-	.nav{
-		float: none;
-		color: #000;
-		font-size: 1em;
-		width: 100%;
-	}
-
-	.nav-box{
-		background-color: rgb(125,125,125);
-		padding-bottom: 1em;
-	}
 }
