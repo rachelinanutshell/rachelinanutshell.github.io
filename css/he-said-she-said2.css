@@ -203,7 +203,7 @@ footer{
 	}
 
 	.title{
-		position: absolute;
+		position: static;
 		margin-top: 0;
 	}
 
