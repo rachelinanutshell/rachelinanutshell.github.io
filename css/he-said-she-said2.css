@@ -202,8 +202,7 @@ footer{
 		font-size: 2.5em;
 	}
 
-	.title-left, .title-right{
-		position: static;
+	.title{
 		margin-top: 0;
 	}
 
@@ -217,11 +216,7 @@ footer{
 		font-size: 1em;
 		width: 100%;
 		position: static;
-	}
-
-	.nav-left, .nav-right{
 		background-color: rgb(125,125,125);
-		padding-bottom: 1em;
 	}
 
 	.blog-container{
