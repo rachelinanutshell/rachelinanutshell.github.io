@@ -218,13 +218,14 @@ footer{
 	}
 
 	.post{
-		margin-top: 0;
 		visibility: visible;
+		padding: 0;
 	}
 
 	.blog-post{
 		width: 100%;
 		display: block;
+		padding: .3em;
 	}
 
 	.author-rachel, .author-sean{
