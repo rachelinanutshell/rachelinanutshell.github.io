@@ -22,7 +22,9 @@ body{
 	background-color: #000;
 	float: right;
 	width: 50%;
+	height: 100%;
 	right: 0;
+	z-index: -1;
 }
 
 .background-left, .background-right{
@@ -161,7 +163,6 @@ h2{
 footer{
 	height: 20px;
 	background-color: orange;
-	z-index: 2;
 }
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
