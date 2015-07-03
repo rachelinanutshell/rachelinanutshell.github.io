@@ -171,10 +171,6 @@ h2{
 	font-size: 0;
 }
 
-footer{
-	height: 20px;
-}
-
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
 	body{
