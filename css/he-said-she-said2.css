@@ -85,9 +85,9 @@ nav{
 
 .blog-container{
 	position: relative;
-  	width: 70%;
+  	width: 90%;
   	background-color: rgba(152,152,152,.5);
-	left: 16%;
+	left: 5%;
 	padding-bottom: 3em;
 }
 
@@ -175,11 +175,6 @@ footer{
 @media screen and (max-width: 900px) and (min-width: 600px) {
 	body{
 		font-size: 14px;
-	}
-
-	.blog-container{
-		width: 90%;
-		left: 5%;
 	}
 }
 
