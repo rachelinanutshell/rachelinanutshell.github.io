@@ -1,11 +1,7 @@
-html{
-	height:100%;
-}
 
 body{
 	font-size: 18px;
 	margin: 0;
-	height: 100%;
 	font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
@@ -14,20 +10,6 @@ body{
 	float: left;
 	width: 50%;
 	height: 100%;
-}
-
-.background-right{
-	background-color: #000;
-	float: right;
-	width: 50%;
-	height: 100%;
-	right: 0;
-}
-
-.background-left, .background-right{
-	height: inherit;
-	margin-top: 0;
-	position: fixed;
 }
 
 .wrapper{
@@ -41,6 +23,19 @@ body{
 	content: "";
 	display: block;
 	height: 20px;
+}
+
+.background-right{
+	background-color: #000;
+	float: right;
+	width: 50%;
+	height: 100%;
+	right: 0;
+}
+
+.background-left, .background-right{
+	margin-top: 0;
+	position: fixed;
 }
 
 .title-left{
