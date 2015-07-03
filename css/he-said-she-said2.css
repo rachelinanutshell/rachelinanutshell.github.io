@@ -1,23 +1,14 @@
-
+html{
+	height:100%;
+}
 
 body{
 	font-size: 18px;
 	margin: 0px;
+	height: 100%;
 	font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
-.wrapper{
-	width: 100%;
-	margin: 0;
-	min-height: 100%;
-	margin-bottom: -20px;
-}
-
-.wrapper:after{
-	content:"";
-	display: block;
-	height: 20px;
-}
 .background-left{
 	background-color: #FFF;
 	float: left;
@@ -32,8 +23,22 @@ body{
 }
 
 .background-left, .background-right{
+	height: inherit;
 	margin-top: 0;
 	position: fixed;
+}
+
+.wrapper{
+	width: 100%;
+	margin: 0;
+	min-height: 100%;
+	margin-bottom: -20px;
+}
+
+.wrapper:after{
+	content:"";
+	display: block;
+	height: 20px;
 }
 
 .title-left{
