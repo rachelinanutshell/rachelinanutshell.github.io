@@ -225,12 +225,11 @@ footer{
 	.blog-post{
 		width: 100%;
 		display: block;
-		padding: .3em;
 	}
 
 	.author-rachel, .author-sean{
 		float: none;
-		padding: .25em 0;
+		padding: .25em;
 	}
 
 	.date{
