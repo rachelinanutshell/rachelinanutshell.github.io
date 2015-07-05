@@ -176,10 +176,6 @@ footer{
 		font-size: 10px;
 	}
 
-	.background-left, .background-right{
-		height: 6em;
-	}
-
 	h1{
 		font-size: 2.5em;
 	}
@@ -187,6 +183,7 @@ footer{
 	.title-left, .title-right{
 		margin-top: 0;
 		margin-bottom: 0;
+		padding-top: 1.5em;
 	}
 
 	h2{
