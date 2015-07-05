@@ -178,7 +178,6 @@ footer{
 
 	.background-left, .background-right{
 		height: 6em;
-		position: static;
 	}
 
 	h1{
@@ -186,7 +185,6 @@ footer{
 	}
 
 	.title-left, .title-right{
-		position: static;
 		margin-top: 0;
 		margin-bottom: 0;
 	}
