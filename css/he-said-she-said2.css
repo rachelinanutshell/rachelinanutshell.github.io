@@ -153,9 +153,11 @@ h2{
 
 footer{
 	height: 20px;
-	background-color: orange;
+	background-color: rgb(152,152,152);
 	bottom: 0;
-	padding: 1em 2em;
+	padding: .5em 2em;
+	float: right;
+	font: .5em;
 }
 
 
