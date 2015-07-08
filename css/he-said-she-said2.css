@@ -151,6 +151,15 @@ h2{
 	padding: 1em 5em 1em 0;
 }
 
+footer{
+	height: 20px;
+	background-color: orange;
+	bottom: 0;
+	padding: 1em 2em;
+}
+
+
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
@@ -160,10 +169,7 @@ h2{
 	font-size: 0;
 }
 
-footer{
-	height: 20px;
-	background-color: orange;
-}
+
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
 	body{
