@@ -155,12 +155,13 @@ footer{
 	height: 20px;
 	background-color: rgb(152,152,152);
 	bottom: 0;
-	padding: .5em 2em;
-	float: right;
+	padding: .2em 2em;
 	font: .5em;
 }
 
-
+.footer{
+	float: right;
+}
 
 .clearfix:after{
 	visibility: hidden;
