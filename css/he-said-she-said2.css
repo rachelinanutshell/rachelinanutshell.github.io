@@ -154,7 +154,7 @@ h2{
 footer{
 	height: 20px;
 	background-color: rgb(152,152,152);
-	bottom: 0;
+	bottom-margin: -40px;
 	font: .5em;
 }
 
