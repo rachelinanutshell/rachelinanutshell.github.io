@@ -30,7 +30,7 @@ body{
 
 .background-left, .background-right{
 	margin-top: 0;
-	height: 15em;
+	height: 3em;
 }
 
 h1{
@@ -45,6 +45,7 @@ h1{
 	color: #000;
 	float: left;
 	margin: 0;
+	margin-bottom: .4em;
 }
 
 .title-right{
@@ -53,6 +54,7 @@ h1{
 	color: #FFF;
 	float: right;
 	margin: 0;
+	margin-bottom: .4em;
 }
 
 .title{
@@ -75,7 +77,6 @@ nav{
 	display: inline-block;
 	text-align: center;
 	text-transform: uppercase;
-	padding-top: 1em;
 	font-size: 1.3em;
 }
 

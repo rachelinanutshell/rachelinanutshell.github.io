@@ -38,6 +38,7 @@ body{
 	background-color: #FFF;
 	color: #000;
 	float: left;
+	margin-bottom: .4em;
 }
 
 .title-right{
@@ -45,6 +46,7 @@ body{
 	color: #FFF;
 	float: right;
 	background-color: #000;
+	margin-bottom: .4em;
 }
 
 .title{
@@ -66,7 +68,7 @@ nav{
 	display: inline-block;
 	text-align: center;
 	text-transform: uppercase;
-	padding: 1.5em 0 1em 0;
+	padding: 1em 0;
 	font-size: 1.3em;
 }
 
