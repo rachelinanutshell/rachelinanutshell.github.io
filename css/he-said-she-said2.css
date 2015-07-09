@@ -160,7 +160,7 @@ footer{
 
 .footer{
 	float: right;
-	padding: 0;
+	margin-bottom: 0;
 }
 
 .clearfix:after{
