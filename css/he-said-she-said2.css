@@ -57,6 +57,13 @@ body{
 	text-transform: uppercase;
 }
 
+h1{
+	font-family: "museo-sans", Helvetica, sans-serif;
+	font-size: 4.5em;
+	text-align: center;
+	letter-spacing: .2em;
+}
+
 nav{
 	position: relative;
 	width: 100%;
@@ -87,6 +94,13 @@ nav{
 	left: 5%;
 	padding-bottom: 3em;
 }
+
+h2{
+	font-size: 2em;
+}
+ p{
+ 	font-family: 'adobe-text-pro', sans-serif;
+ }
 
 .post{
 	background-color: rgba(0,0,0,0);
@@ -135,16 +149,6 @@ nav{
 	color: #000;
 	text-align: center;
 	float:right;
-}
-
-h1{
-	font-family: "museo-sans", Helvetica, sans-serif;
-	font-size: 4.5em;
-	text-align: center;
-}
-
-h2{
-	font-size: 2em;
 }
 
 .sign-off{
