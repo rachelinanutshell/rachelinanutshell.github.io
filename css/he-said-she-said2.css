@@ -154,12 +154,13 @@ h2{
 footer{
 	height: 20px;
 	background-color: rgb(152,152,152);
-	bottom-margin: -40px;
-	font: .5em;
+	padding: .5em;
+	font: .2em;
 }
 
 .footer{
 	float: right;
+	padding: 0;
 }
 
 .clearfix:after{
