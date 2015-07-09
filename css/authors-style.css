@@ -96,10 +96,13 @@ nav{
 	padding: .2em 0;
 }
 
-.decor{
-	background-color: #000;
+.decor{	
 	float: left;
 	width: 15%;
+}
+
+#one, #two, #three{
+	background-color: #000;
 	height: 20px;
 	position: relative;
 	display: block;
@@ -110,12 +113,10 @@ nav{
 }
 
 #two{
-	margin-left: -15%;
 	margin-top: 4em;
 }
 
 #three{
-	margin-left: -30%;
 	margin-top: 7em;
 }
 
