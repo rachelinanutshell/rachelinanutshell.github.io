@@ -97,16 +97,42 @@ nav{
 }
 
 .decor{
-	color: #000;
+	background-color: #000;
 	float: left;
-	width: 5%;
+	width: 15%;
 	height: 20px;
 	position: relative;
+}
+
+#one{
+	margin-top: 1em;
+}
+
+#two{
+	display: block;
+	margin-left: 0px;
+	position: absolute;
+	margin-top: 4em;
+}
+
+#three{
+	display: block;
+	margin-left: 0px;
+	position: absolute;
+	margin-top: 7em;
 }
 
 .main-content{
 	float: right;
 	width: 80%;
+}
+
+img{
+	padding: 2em;
+}
+
+.rachel-desc, .sean-desc{
+	display: inline;
 }
 
 .profile-rachel{
