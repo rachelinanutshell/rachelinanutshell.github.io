@@ -58,7 +58,7 @@ body{
 }
 
 h1{
-	font-family: "museo-sans", Helvetica, sans-serif;
+	font-family: "ff-prater-block-web", Helvetica, sans-serif;
 	font-size: 4.5em;
 	text-align: center;
 }
@@ -97,9 +97,6 @@ nav{
 h2{
 	font-size: 2em;
 }
- p{
- 	font-family: 'adobe-text-pro', sans-serif;
- }
 
 .post{
 	background-color: rgba(0,0,0,0);
