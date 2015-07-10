@@ -2,8 +2,8 @@
 body{
 	font-size: 18px;
 	margin: 0;
-	font-family: 'museo-sans', Helvetica, sans-serif;
-}
+	font-family: 'Playfair Display', serif;
+	}
 
 .wrapper{
 	width: 100%;
@@ -39,6 +39,7 @@ body{
 	color: #000;
 	float: left;
 	margin-bottom: .4em;
+	font-family: 'Playfair Display', serif;
 }
 
 .title-right{
@@ -47,6 +48,7 @@ body{
 	float: right;
 	background-color: #000;
 	margin-bottom: .4em;
+	font-family: "museo-sans", Helvetica, sans-serif;
 }
 
 .title{
@@ -58,7 +60,6 @@ body{
 }
 
 h1{
-	font-family: "museo-sans", Helvetica, sans-serif;
 	font-size: 4.5em;
 	text-align: center;
 }
@@ -95,7 +96,7 @@ nav{
 }
 
 h2{
-	font-family: "ff-prater-block-web";
+	font-family: 'museo-sans', Helvetica, sans-serif;
 	font-size: 2em;
 }
 
