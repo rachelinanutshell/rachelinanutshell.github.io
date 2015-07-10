@@ -118,7 +118,6 @@ nav{
 
 h2{
 	font-size: 2em;
-	font-family: 'Reenie Beanie', sans-serif;
 }
 
 .racheldate{
@@ -126,6 +125,7 @@ h2{
 	background-color: #9C81BB;
 	margin-left: -2em;
 	color: #FFF;
+	font-family: 'Reenie Beanie', sans-serif;
 }
 
 .seandate{
@@ -133,6 +133,7 @@ h2{
 	background-color: #9ED4B3;
 	margin-right: -2em;
 	color: #000;
+	font-family: 'Reenie Beanie', sans-serif;
 }
 
 .author-rachel{
