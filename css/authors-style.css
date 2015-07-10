@@ -133,12 +133,17 @@ img{
 
 .profile-rachel{
 	height: 5em;
-	border-radius: 50%;
 }
 
 .profile-sean{
 	height: 6.5em;
-	border-radius: 100%
+	width: 6.5em;
+}
+
+.profile-rachel, .profile-sean{
+	border-radius: 50%;
+	float: left;
+	padding: 2em;
 }
 
 footer{
