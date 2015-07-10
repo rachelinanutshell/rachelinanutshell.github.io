@@ -131,19 +131,13 @@ img{
 	display: inline;
 }
 
-.profile-rachel{
-	height: 5em;
-}
-
-.profile-sean{
-	height: 6.5em;
-	width: 6.5em;
-}
-
 .profile-rachel, .profile-sean{
+	height: 5em;
+	width: 5em;
 	border-radius: 50%;
 	float: left;
 	padding: 2em;
+	left: 0;
 }
 
 .about-rachel{
