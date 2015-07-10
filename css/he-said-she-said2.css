@@ -94,10 +94,6 @@ nav{
 	padding-bottom: 3em;
 }
 
-h2{
-	font-size: 2em;
-}
-
 .post{
 	background-color: rgba(0,0,0,0);
 	width: 100%;
@@ -118,6 +114,11 @@ h2{
 	display: inline-block;
 	width: 80%;
 	font-family: 'Prata', serif;
+}
+
+h2{
+	font-size: 2em;
+	font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
 .racheldate{
