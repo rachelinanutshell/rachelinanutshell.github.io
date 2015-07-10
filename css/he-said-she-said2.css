@@ -113,11 +113,11 @@ nav{
 .blog-post{
 	display: inline-block;
 	width: 80%;
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Fenix', serif;
 }
 
 h2{
-	font-size: 1.5em;
+	font-size: em;
 	font-family: 'Reenie Beanie', sans-serif;
 }
 
