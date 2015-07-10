@@ -42,7 +42,7 @@ body{
 }
 
 h1{
-	font-family: "museo-sans", Helvetica, sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 4.5em;
 	text-align: center;
 }
@@ -121,6 +121,12 @@ nav{
 .main-content{
 	float: right;
 	width: 80%;
+	font-family: 'Roboto Slab', serif;
+}
+
+h2{
+	font-family: 'Playfair Display', serif;
+	font-size: 4.5em;
 }
 
 img{
