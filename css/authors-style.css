@@ -146,6 +146,15 @@ img{
 	padding: 2em;
 }
 
+.about-rachel{
+	padding-bottom: 2em;
+}
+
+li{
+	position: relative;
+	left: 1em;
+}
+
 footer{
 	height: 20px;
 	background-color: rgb(152,152,152);
