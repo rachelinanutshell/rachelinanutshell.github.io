@@ -137,11 +137,12 @@ img{
 	border-radius: 50%;
 	float: left;
 	padding: 2em;
-	left: 0;
 }
 
-.about-rachel{
+.about-rachel, .about-sean{
 	padding-bottom: 2em;
+	position: relative;
+	left: 0;
 }
 
 li{
