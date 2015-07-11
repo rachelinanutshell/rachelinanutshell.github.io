@@ -169,6 +169,14 @@ footer{
 	margin: 0;
 }
 
+.rachel-only .author-rachel{
+	display: none;
+}
+
+.rachel-only .racheldate{
+	display: none;
+}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
