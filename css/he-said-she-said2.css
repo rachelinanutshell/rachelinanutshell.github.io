@@ -61,8 +61,6 @@ h1{
 	font-family: 'Playfair Display', serif;
 	font-size: 4.5em;
 	text-align: center;
-	text-decoration: none;
-	color: #000;
 }
 
 nav{
@@ -175,7 +173,7 @@ footer{
 	display: none;
 }
 
-.rachel-only .racheldate{
+.rachel-only .author-rachel{
 	display: none;
 }
 
