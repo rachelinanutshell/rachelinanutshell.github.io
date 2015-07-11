@@ -2,7 +2,7 @@
 body{
 	font-size: 18px;
 	margin: 0;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
 .wrapper{
@@ -113,7 +113,7 @@ nav{
 .blog-post{
 	display: inline-block;
 	width: 80%;
-	font-family: 'Rokkitt', serif;
+	font-family: 'Roboto Slab', serif;
 }
 
 h2{
