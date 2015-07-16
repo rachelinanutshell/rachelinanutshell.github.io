@@ -124,9 +124,10 @@ nav{
 }
 
 h2{
-	font-size: 5em;
+	font-size: 5.5em;
 	font-family: 'Reenie Beanie', sans-serif;
 	margin: 0;
+	padding: 1em;
 }
 
 img{
