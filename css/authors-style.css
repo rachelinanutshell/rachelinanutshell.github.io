@@ -130,6 +130,10 @@ h2{
 	margin: 0;
 }
 
+.general{
+	padding-bottom: 2em;
+}
+
 img{
 	padding: 2em;
 }
@@ -147,7 +151,7 @@ img{
 }
 
 .about-rachel, .about-sean{
-	padding-bottom: 2em;
+	padding-bottom: 5em;
 	position: relative;
 	left: 0;
 }
