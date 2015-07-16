@@ -92,6 +92,7 @@ nav{
 
 .navleft{
 	color: #000;
+	background-color: #FFF;
 }
 
 .navleft:hover{
@@ -100,6 +101,7 @@ nav{
 
 .navright{
 	color: #FFF;
+	background-color: #000;
 }
 
 .navright:hover{
