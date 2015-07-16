@@ -39,6 +39,7 @@ body{
 	color: #000;
 	float: left;
 	margin-bottom: .4em;
+	text-decoration: none;
 }
 
 .title-right{
@@ -89,6 +90,10 @@ nav{
 
 .navright{
 	color: #FFF;
+}
+
+.navright:hover{
+	background-color: #9C81BB;
 }
 
 .blog-container{
