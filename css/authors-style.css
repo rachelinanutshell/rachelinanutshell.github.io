@@ -79,7 +79,6 @@ nav{
 }
 
 .nav{
-	position: relative;
 	width: 25%;
 	float: left;
 	display: inline-block;
@@ -87,15 +86,24 @@ nav{
 	text-transform: uppercase;
 	padding: 1em 0;
 	font-size: 1.3em;
+	letter-spacing: 3px;
+	text-decoration: none;
 }
 
 .navleft{
 	color: #000;
 }
 
+.navleft:hover{
+	background-color: #9ED4B3;
+}
+
 .navright{
 	color: #FFF;
-	background-color: #000;
+}
+
+.navright:hover{
+	background-color: #9C81BB;
 }
 
 #author-title{
