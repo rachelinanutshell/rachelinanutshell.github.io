@@ -162,12 +162,15 @@ h2{
 	color: #000;
 }
 
+p{
+	font-family: Garamond;
+}
+
 .author-rachel{
 	background-color: #000;
 	color: #FFF;
 	text-align: center;
 	float: left;
-	font-family: Garamond;
 }
 
 .author-sean{
