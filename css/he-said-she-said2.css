@@ -91,10 +91,6 @@ nav{
 	color: #FFF;
 }
 
-.navright:hover{
-	background-color: 
-}
-
 .blog-container{
 	position: relative;
   	width: 90%;
@@ -178,11 +174,11 @@ footer{
 	margin: 0;
 }
 
-.rachel-only .author-rachel{
+.rachel-only .author-sean{
 	display: none;
 }
 
-.rachel-only .author-rachel{
+.rachel-only .seandate{
 	display: none;
 }
 
