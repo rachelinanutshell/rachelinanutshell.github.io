@@ -88,7 +88,7 @@ nav{
 	text-transform: uppercase;
 	padding: 1em 0;
 	font-size: 1.3em;
-	letter-spacing: 5px;
+	letter-spacing: 3px;
 	text-decoration: none;
 }
 
@@ -130,6 +130,7 @@ nav{
 	width: 10%;
 	text-transform: uppercase;
 	text-align: center;
+	letter-spacing: 1px
 }
 
 .blog-post{
@@ -142,6 +143,8 @@ h2{
 	font-size: 2em;
 	font-family: 'Playfair Display', sans-serif;
 	font-weight: 100;
+	letter-spacing: 2px;
+	font-style: normal;
 	margin: .5em 0 .2em 0;
 }
 
