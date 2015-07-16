@@ -38,7 +38,7 @@ body{
 	background-color: #FFF;
 	color: #000;
 	float: left;
-	margin: .4em 0;
+	margin: 0.5em 0;
 	text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ body{
 	color: #FFF;
 	float: right;
 	background-color: #000;
-	margin: .4em 0;
+	margin: 0.5em 0;
 	text-decoration: none;
 }
 
