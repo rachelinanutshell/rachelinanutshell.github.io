@@ -2,7 +2,7 @@
 body{
 	font-size: 18px;
 	margin: 0;
-	font-family: 'museo-sans', Helvetica, sans-serif;
+	font-family: 'Playfair Display', serif;
 }
 
 .wrapper{
@@ -34,7 +34,6 @@ body{
 }
 
 h1{
-	font-family: 'Playfair Display', serif;
 	font-weight: 600;
 	font-style: italic;
 	font-size: 4.5em;
@@ -145,7 +144,7 @@ h2{
 	font-weight: 100;
 	letter-spacing: 2px;
 	font-style: normal;
-	margin: .5em 0 .2em 0;
+	margin: 0.6em 0 0.2em 0;
 }
 
 .racheldate{
