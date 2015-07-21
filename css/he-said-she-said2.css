@@ -3,7 +3,6 @@ body{
 	font-size: 18px;
 	margin: 0;
 	font-family: 'Playfair Display', serif;
-	font-style: italic;
 	font-weight: 400;
 }
 
@@ -86,6 +85,7 @@ nav{
 	text-align: center;
 	text-transform: uppercase;
 	padding: 1em 0;
+	font-family: 'museo-sans', sans-serif;
 	font-size: 1.3em;
 	letter-spacing: 3px;
 	text-decoration: none;
@@ -135,15 +135,13 @@ nav{
 .blog-post{
 	display: inline-block;
 	width: 80%;
-	font-weight: bold;
+	font-style: italic;
 }
 
 h2{
 	font-size: 2em;
-	font-family: 'Playfair Display', sans-serif;
-	font-weight: 100;
 	letter-spacing: 2px;
-	font-style: normal;
+	font-style: italic;
 	margin: 0.6em 0 0.2em 0;
 }
 
