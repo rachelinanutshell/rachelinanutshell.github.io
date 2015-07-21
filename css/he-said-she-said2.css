@@ -2,8 +2,8 @@
 body{
 	font-size: 18px;
 	margin: 0;
-	font-family: 'Playfair Display', serif;
-	font-weight: 400;
+	font-family: 'fira-sans-2', sans-serif;
+	font-weight: 500;
 }
 
 .wrapper{
@@ -34,7 +34,7 @@ body{
 	position: fixed;
 }
 
-h1{	
+h1{	font-weight: 700;
 	font-size: 4.5em;
 }
 
@@ -70,6 +70,7 @@ h1{
 	width:100%;
 	text-align: center;
 	text-transform: uppercase;
+	margin: 0.2em 0;
 }
 
 
@@ -85,7 +86,6 @@ nav{
 	text-align: center;
 	text-transform: uppercase;
 	padding: 1em 0;
-	font-family: 'fira-sans-2', sans-serif;
 	font-size: 1.3em;
 	letter-spacing: 3px;
 	text-decoration: none;
@@ -135,7 +135,6 @@ nav{
 .blog-post{
 	display: inline-block;
 	width: 80%;
-	font-style: italic;
 }
 
 h2{
@@ -144,10 +143,6 @@ h2{
 	letter-spacing: 2px;
 	font-style: italic;
 	margin: 0.6em 0 0.2em 0;
-}
-
-.date{
-	font-family: 'fira-sans-2', sans-serif;
 }
 
 .racheldate{
@@ -205,11 +200,19 @@ footer{
 	display: none;
 }
 
+.rachel-only .signoff{
+	display: none;
+}
+
 .sean-only .author-rachel{
 	display: none;
 }
 
 .sean-only .racheldate{
+	display: none;
+}
+
+.sean-only .signoff{
 	display: none;
 }
 
