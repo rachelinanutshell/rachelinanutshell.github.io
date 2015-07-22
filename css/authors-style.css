@@ -6,7 +6,7 @@ body{
 	font-size: 18px;
 	margin: 0px;
 	height: 100%;
-	font-family: 'museo-sans', Helvetica, sans-serif;
+	font-family: 'fira-sans-2', sans-serif;
 }
 
 .wrapper{
@@ -42,9 +42,12 @@ body{
 }
 
 h1{
-	font-family: 'Playfair Display', serif;
-	font-size: 4.5em;
-	text-align: center;
+	font-family: 'ltc-bodoni-175', serif;
+	font-weight: bold;
+	font-style: italic;
+	letter-spacing: .02em;
+	font-size: 4em;
+	margin: 0.4em 0;
 }
 
 .title-left{
@@ -110,8 +113,8 @@ nav{
 
 #author-title{
 	text-align: left;
-	font-size: 4.5em;
-	padding: .5em 0;
+	font-size: 4em;
+	padding: .6em 0;
 	margin: 0;
 }
 
@@ -132,11 +135,6 @@ nav{
 .main-content{
 	float: right;
 	width: 78%;
-}
-
-h2{
-	font-size: 3em;
-	margin: 0;
 }
 
 .general{
