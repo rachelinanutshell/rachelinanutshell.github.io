@@ -23,7 +23,7 @@ body{
 .background-right{
 	background-color: #000;
 	float: right;
-	width: 51%;
+	width: 50%;
 	height: 100%;
 	right: 0;
 	z-index: -1;
@@ -39,18 +39,18 @@ h1{
 	font-weight: bold;
 	font-style: italic;
 	letter-spacing: .01em;
-	font-size: 4.5em;
+	font-size: 4em;
 }
 
 .title-left{
-	width: 49%;
+	width: 50%;
 	background-color: #FFF;
 	color: #000;
 	float: left;
 }
 
 .title-right{
-	width: 51%;
+	width: 50%;
 	color: #FFF;
 	float: right;
 	background-color: #000;
