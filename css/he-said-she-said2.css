@@ -241,6 +241,7 @@ footer{
 
 	h1{
 		font-size: 2em;
+		letter-spacing: 0;
 	}
 
 	.title-left, .title-right{
@@ -280,12 +281,15 @@ footer{
 	.blog-post{
 		width: 100%;
 		display: block;
-		padding: 0 .2em;
 	}
 
 	.author-rachel, .author-sean{
 		float: none;
-		padding: .25em 0;
+		padding: 0.25em 0;
+	}
+
+	p{
+		margin: 0 0.7em;
 	}
 
 	.date{
