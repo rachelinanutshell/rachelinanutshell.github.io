@@ -111,11 +111,15 @@ nav{
 	background-color: #9C81BB;
 }
 
-#author-title{
+.page-title{
 	text-align: left;
-	font-size: 4em;
+	font-size: 3em;
 	padding: .6em 0;
 	margin: 0;
+}
+
+.site-title{
+	font-style: italic;
 }
 
 .decor{	
