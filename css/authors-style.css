@@ -178,6 +178,10 @@ li{
 	left: 1em;
 }
 
+.all-text-rachel, .all-text-sean{
+	left: .5em;
+}
+
 footer{
 	height: 20px;
 	background-color: rgb(152,152,152);
