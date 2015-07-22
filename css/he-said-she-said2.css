@@ -38,8 +38,9 @@ h1{
 	font-family: 'ltc-bodoni-175', serif;
 	font-weight: bold;
 	font-style: italic;
-	letter-spacing: .01em;
+	letter-spacing: .02em;
 	font-size: 4em;
+	margin: 0.4em 0;
 }
 
 .title-left{
