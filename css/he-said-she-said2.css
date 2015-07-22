@@ -23,7 +23,7 @@ body{
 .background-right{
 	background-color: #000;
 	float: right;
-	width: 50%;
+	width: 51%;
 	height: 100%;
 	right: 0;
 	z-index: -1;
