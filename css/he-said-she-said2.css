@@ -38,19 +38,19 @@ h1{
 	font-family: 'ltc-bodoni-175', serif;
 	font-weight: bold;
 	font-style: italic;
-	letter-spacing: .2em;
+	letter-spacing: .01em;
 	font-size: 4.5em;
 }
 
 .title-left{
-	width: 50%;
+	width: 49%;
 	background-color: #FFF;
 	color: #000;
 	float: left;
 }
 
 .title-right{
-	width: 50%;
+	width: 51%;
 	color: #FFF;
 	float: right;
 	background-color: #000;
