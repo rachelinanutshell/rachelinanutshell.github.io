@@ -112,6 +112,7 @@ nav{
 }
 
 .page-title{
+	font-family: 'ltc-bodoni-175', serif;
 	text-align: left;
 	font-size: 3em;
 	padding: .6em 0;
@@ -119,7 +120,12 @@ nav{
 }
 
 .site-title{
+	display: inline;
 	font-style: italic;
+}
+
+p{
+	display: inline;
 }
 
 .decor{	
