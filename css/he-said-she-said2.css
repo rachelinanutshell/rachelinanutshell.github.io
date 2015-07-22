@@ -34,7 +34,9 @@ body{
 	position: fixed;
 }
 
-h1{	font-weight: 700;
+h1{	
+	font-family: 'ltc-bodoni-175', serif;
+	font-weight: bold;
 	font-size: 4.5em;
 }
 
@@ -43,7 +45,6 @@ h1{	font-weight: 700;
 	background-color: #FFF;
 	color: #000;
 	float: left;
-	margin: 0.5em 0;
 }
 
 .title-right{
@@ -51,7 +52,6 @@ h1{	font-weight: 700;
 	color: #FFF;
 	float: right;
 	background-color: #000;
-	margin: 0.5em 0;
 }
 
 .right-link{
@@ -70,9 +70,7 @@ h1{	font-weight: 700;
 	width:100%;
 	text-align: center;
 	text-transform: uppercase;
-	margin: 0.2em 0;
 }
-
 
 nav{
 	position: relative;
