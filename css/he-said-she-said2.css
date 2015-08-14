@@ -83,7 +83,6 @@ nav{
 .nav{
 	width: 25%;
 	float: left;
-	display: inline-block;
 	text-align: center;
 	text-transform: uppercase;
 	padding: 1em 0;
@@ -123,7 +122,6 @@ nav{
 }
 
 .date{
-	display: inline-block;
 	margin-top: 2em;
 	font-size: .8em;
 	padding: 1em;
@@ -134,7 +132,6 @@ nav{
 }
 
 .blog-post{
-	display: inline-block;
 	width: 80%;
 }
 
