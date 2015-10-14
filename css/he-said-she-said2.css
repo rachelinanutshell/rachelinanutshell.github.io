@@ -254,6 +254,7 @@ footer{
 	}
 
 	.nav{
+		display: inline-block;
 		float: none;
 		color: #000;
 		font-size: 1em;
@@ -278,6 +279,7 @@ footer{
 	}
 
 	.blog-post{
+		display: inline-block;
 		width: 100%;
 		display: block;
 	}
@@ -292,6 +294,7 @@ footer{
 	}
 
 	.date{
+		display: inline-block;
 		display: none;
 	}
 
